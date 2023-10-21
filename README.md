@@ -31,7 +31,7 @@ int main()
 }
 ```
 #### The Screenshot of the Output
-![Output of linear queue]()
+![Output of linear queue](image_2023-10-21_161031612.png)
 ### Output of circular queue and its code in ```main()```
 #### The code
 ```
@@ -68,5 +68,5 @@ int main()
 }
 ```
 #### The screenshot of the output
-![Output of circular queue]()
+![Output of circular queue](image_2023-10-21_161055971.png)
 
